@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "LLMR"]
 	path = LLMR
-	url = https://github.com/cran/LLMR
+	url = https://github.com/asanaei/llmr
