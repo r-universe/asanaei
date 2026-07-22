@@ -5,6 +5,12 @@
 [submodule "LLMR"]
 	path = LLMR
 	url = https://github.com/asanaei/llmr
+[submodule "LLMR.shiny"]
+	path = LLMR.shiny
+	url = https://github.com/asanaei/llmr.shiny
+[submodule "LLMRagent"]
+	path = LLMRagent
+	url = https://github.com/asanaei/llmragent
 [submodule "recoder"]
 	path = recoder
 	url = https://github.com/cran/recoder
