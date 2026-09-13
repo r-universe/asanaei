@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FocusGroup"]
+	path = FocusGroup
+	url = https://github.com/asanaei/focusgroup
 [submodule "LLMR"]
 	path = LLMR
 	url = https://github.com/asanaei/llmr
@@ -11,6 +14,9 @@
 [submodule "LLMRagent"]
 	path = LLMRagent
 	url = https://github.com/asanaei/llmragent
+[submodule "LLMRpanel"]
+	path = LLMRpanel
+	url = https://github.com/asanaei/llmrpanel
 [submodule "recoder"]
 	path = recoder
 	url = https://github.com/cran/recoder
